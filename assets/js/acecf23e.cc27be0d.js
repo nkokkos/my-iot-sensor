@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_iot_sensor=globalThis.webpackChunkmy_iot_sensor||[]).push([[1903],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/my-iot-sensor/blog","blogTitle":"Blog","authorsListPath":"/my-iot-sensor/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmy_iot_sensor=globalThis.webpackChunkmy_iot_sensor||[]).push([[8751],{7296(o){o.exports=JSON.parse('{"metadata":{"permalink":"/my-iot-sensor/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
