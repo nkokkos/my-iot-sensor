@@ -43,8 +43,9 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 ## Running it from local dev box
 npm run serve -- --port 3001 --host 0.0.0.0
 
-1. Force clean deployment
-Clean any old build files:
+# Force clean deployment
+
+1. Clean any old build files:
 npm run clear
 
 2. Run the deploy command with your GitHub info
